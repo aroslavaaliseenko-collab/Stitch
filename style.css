@@ -1,0 +1,49 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #2b23a1;
+  
+}
+
+/*Зроби цей сайт красивим 😉*/
+
+header{
+    background-color: #2b23a1;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+footer{
+    background-color: #2b23a1;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+nav{
+    background-color: #2b23a1;
+    padding: 10px;
+    text-align: center;
+}
+    
+a{
+    color: white;
+}
+
+h2, h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+img{
+    height: 150px;
+}
+
+
+main{
+    padding: 20px;
+}
